@@ -1,23 +1,36 @@
-# mohamed-it-admin
+# ─── ❖ ── MOHAMED-IT-ADMIN ── ❖ ───
 
-Junior IT Specialist graduating with a Vocational Qualification in ICT (Cloud Services and Technical Support). Experienced in infrastructure support, user administration, and endpoint management through corporate internships. Currently building structural foundations across core cloud systems.
+```text
+  ❖  [System Operations]  ❖  [Infrastructure Design]  ❖  [Access Isolation]  ❖
+```
 
----
-
-## Technical Focus
-* **Systems Management:** Windows, macOS, Intune, SCCM, Jamf Pro
-* **Access Control:** Active Directory, Stored Access Policies, User Administration, Token Governance
-* **Cloud Infrastructure:** Microsoft Azure architectures, core networking configurations, resource isolation, storage boundaries
+Junior IT Specialist completing a Vocational Qualification in ICT (Cloud Services and Technical Support). Developed core competency in infrastructure troubleshooting, identity administration, and endpoint management through enterprise internships. Currently engineering foundational environments in cloud architecture.
 
 ---
 
-## Projects
+## ❖ Technical Domains ───────────────────────────────────────
+
+```text
+  ├─ Systems Management ─── Windows / macOS / Intune Compliance / SCCM / Jamf Pro
+  ├─ Identity & Access ──── Active Directory / Stored Access Policies / Token Governance
+  └─ Cloud Infrastructure ─ Microsoft Azure Resource Hierarchy / Network Isolation
+```
+
+---
+
+## ❖ Cloud Portfolios ──────────────────────────────────────────
+
 * **[az-900-portfolio](https://github.com)**  
-  Central directory tracking architectural deployments, administrative logs, and systemic troubleshooting procedures mapped against Microsoft Azure engineering objectives.
+  A centralized directory hosting active cloud architecture deployments, administrative tracking, and systemic remediation logs mapped against Microsoft Azure engineering frameworks.
 
 ---
 
-## Objectives
-* Implementation of foundational Azure Virtual Networks (VNets), Load Balancers, and traffic management rules.
-* Exploring Infrastructure as Code (IaC) deployment automation workflows.
-* Seeking entry-level roles across IT Support, System Operations, or Cloud Administration teams.
+## ❖ Active Trajectory ─────────────────────────────────────────
+
+```text
+  ▲  Engineering core Azure Virtual Networks (VNets) and routing rules.
+  ▲  Investigating programmatic Infrastructure as Code (IaC) workflows.
+  ▲  Targeting entry-level roles in System Operations, Support, and Administration.
+```
+
+─── ❖ ─── ❖ ─── ❖ ─── ❖ ─── ❖ ─── ❖ ─── ❖ ─── ❖ ─── ❖ ─── ❖ ─── ❖ ───

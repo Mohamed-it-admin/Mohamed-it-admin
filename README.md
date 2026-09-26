@@ -5,9 +5,9 @@ I am a **Junior IT Specialist** graduating with a Vocational Qualification in IC
 ---
 
 ## 🛠️ IT Skills & Tools I Have Used
-* **Operating Systems & Endpoints:** Windows, macOS, Intune compliance checks, SCCM, Jamf Pro [2, 3]
-* **Identity & Support:** Active Directory (OU tasks, password resets), ServiceNow tickets, Zendesk [2, 3]
-* **Cloud Study Focus:** Azure fundamentals, basic storage settings, security access policies, AWS Cloud Practitioner Essentials [2, 3]
+* **Operating Systems & Endpoints:** Windows, macOS, Intune compliance checks, SCCM, Jamf Pro 
+* **Identity & Support:** Active Directory (OU tasks, password resets), ServiceNow tickets, Zendesk 
+* **Cloud Study Focus:** Azure fundamentals, basic storage settings, security access policies, AWS Cloud Practitioner Essentials 
 
 ---
 

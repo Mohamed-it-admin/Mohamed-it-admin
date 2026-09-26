@@ -1,7 +1,5 @@
 # Mohamed | Systems & Cloud Support
 
-# Mohamed | Systems & Cloud Support
-
 Junior IT Specialist completing a Vocational Qualification in ICT, focused on cloud services and technical support. Hands-on experience from IT support and systems support internships, including endpoint troubleshooting, user administration, Microsoft Intune, Active Directory, and device compliance.
 
 Currently building practical Microsoft Azure skills through hands-on labs, with a focus on cloud infrastructure, storage, security, administration, and troubleshooting.

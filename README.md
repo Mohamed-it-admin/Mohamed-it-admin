@@ -1,42 +1,27 @@
 # Hello, I'm Mohamed 👋
 
-I am an aspiring **Cloud Operations & Systems Administrator** dedicated to engineering secure, resilient, and highly available infrastructure environments. Currently, I am actively building out deployment architectures mapped against enterprise requirements and the **Microsoft Azure** ecosystem.
+I am a **Junior IT Specialist** graduating with a Vocational Qualification in ICT (Cloud Services and Technical Support). I have a foundation in IT support, user administration, and device management gained through hands-on internships. Currently, I am studying for my **AZ-900: Azure Fundamentals** certification and documenting my labs here to transition toward cloud operations.
 
 ---
 
-## 🛠️ Technical Skill Set & Focus Areas
-* **Cloud Infrastructure:** Microsoft Azure (Core Compute, Storage Architecture, Resource Isolation)
-* **Identity & Access Management (IAM):** Shared Access Signatures (SAS), Stored Access Policies, Role-Based Access Control (RBAC), Least Privilege Enforcement
-* **Operations & Governance:** Automated Object Lifecycle Policies, Budget Boundaries, Architecture Diagramming
-* **Systems Administration:** Configuration Logging, Cross-Timezone Endpoint Synchronization, REST API Error Analysis
+## 🛠️ IT Skills & Tools I Have Used
+* **Operating Systems & Endpoints:** Windows, macOS, Intune compliance checks, SCCM, Jamf Pro [2, 3]
+* **Identity & Support:** Active Directory (OU tasks, password resets), ServiceNow tickets, Zendesk [2, 3]
+* **Cloud Study Focus:** Azure fundamentals, basic storage settings, security access policies, AWS Cloud Practitioner Essentials [2, 3]
 
 ---
 
-## 🚀 Live Cloud Engineering Projects
+## 🚀 Hands-On Learning Projects
 
-### 🔐 [Azure Secure File Sharing Environment](https://github.com)
-* Engineered a Zero-Trust B2B file sharing framework inside Azure Blob Storage without root account key exposure.
-* Implemented Stored Access Policies for centralized token lifespan control and immediate access revocation boundaries.
-* Successfully debugged cross-timezone REST API `AuthenticationFailed` runtime tokens and enforced network privacy boundaries (`PublicAccessNotPermitted`).
-* **[View Active Lab Code & Logs →](https://github.com)**
+### 📁 [AZ-900 Portfolio: Secure File Sharing Lab](https://github.com)
+* Followed a guided Azure sandbox environment lab to create an isolated Resource Group and a private Storage Account container.
+* Practiced setting up a Stored Access Policy to experience how read-only permissions and time windows protect storage data.
+* Documented step-by-step troubleshooting logs for standard connection blocks like `PublicAccessNotPermitted` and timezone-related `AuthenticationFailed` server errors.
+* **[View My Lab Repository →](https://github.com)**
 
 ---
 
-## 🎯 Current Objectives
-* 🎓 Deepening operational competencies across **Core Azure Virtual Networks (VNets)**, Load Balancers, and Hybrid Connectivity.
-* 🛡️ Automating infrastructure deployments using **Infrastructure as Code (IaC)**.
-* 💼 Open to Junior Cloud Operations, Systems Support, and Cloud Administration positions.
-
-**Mohamed-it-admin/Mohamed-it-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Goals
+* 📖 Studying core Azure networking concepts (VNets, network security basics).
+* 📝 Uploading more foundational labs as I complete my IT degree curriculum.
+* 💼 Looking for entry-level IT Support, Junior System Specialist, or Cloud Support roles.
